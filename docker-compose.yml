@@ -1,0 +1,16 @@
+services:
+  shopper:
+    build: .
+    container_name: shopper
+    restart: unless-stopped
+    ports:
+      - "${SHOPPER_PORT:-8080}:8000"
+    environment:
+      DATA_DIR: /data
+      KROGER_CLIENT_ID: ${KROGER_CLIENT_ID:-}
+      KROGER_CLIENT_SECRET: ${KROGER_CLIENT_SECRET:-}
+    volumes:
+      - shopper-data:/data
+
+volumes:
+  shopper-data:

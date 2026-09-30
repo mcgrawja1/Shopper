@@ -1,0 +1,3372 @@
+[
+ {
+  "brand": "Sprite",
+  "name": "Lemon-Lime Soda Cans",
+  "size": "12 pack x 12 fl oz",
+  "category": "Beverages",
+  "base_price": 8.49,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "soda",
+   "pop",
+   "lemon lime",
+   "coke"
+  ],
+  "overrides": {
+   "winn-dixie": {
+    "deal_type": "bogo",
+    "deal_text": "Buy 1 Get 1 Free with rewards card"
+   },
+   "walmart": {
+    "deal_type": "multibuy",
+    "deal_qty": 3,
+    "deal_price": 19.0,
+    "deal_text": "3 for $19"
+   }
+  },
+  "upc": "049000028928"
+ },
+ {
+  "brand": "Sprite",
+  "name": "Lemon-Lime Soda Cans",
+  "size": "24 pack x 12 fl oz",
+  "category": "Beverages",
+  "base_price": 13.98,
+  "stores": [
+   "walmart",
+   "target",
+   "commissary",
+   "kroger"
+  ],
+  "keywords": [
+   "soda",
+   "pop",
+   "lemon lime"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Sprite",
+  "name": "Lemon-Lime Soda Cans",
+  "size": "30 pack x 12 fl oz",
+  "category": "Beverages",
+  "base_price": 15.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "soda",
+   "pop",
+   "lemon lime"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Sprite",
+  "name": "Lemon-Lime Soda Bottles",
+  "size": "6 pack x 16.9 fl oz",
+  "category": "Beverages",
+  "base_price": 5.99,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "soda",
+   "pop",
+   "lemon lime"
+  ],
+  "overrides": {
+   "publix": {
+    "deal_type": "bogo",
+    "deal_text": "BOGO this week"
+   }
+  }
+ },
+ {
+  "brand": "Sprite",
+  "name": "Lemon-Lime Soda",
+  "size": "2 l",
+  "category": "Beverages",
+  "base_price": 2.49,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "soda",
+   "pop",
+   "lemon lime",
+   "2 liter"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Summit",
+  "name": "Lemon Lime Soda Cans",
+  "size": "12 pack x 12 fl oz",
+  "category": "Beverages",
+  "base_price": 4.29,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "sprite",
+   "soda",
+   "pop",
+   "lemon lime"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Coca-Cola",
+  "name": "Classic Cans",
+  "size": "12 pack x 12 fl oz",
+  "category": "Beverages",
+  "base_price": 8.49,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "coke",
+   "soda",
+   "pop",
+   "cola"
+  ],
+  "overrides": {
+   "walmart": {
+    "deal_type": "multibuy",
+    "deal_qty": 3,
+    "deal_price": 19.0,
+    "deal_text": "3 for $19"
+   }
+  }
+ },
+ {
+  "brand": "Coca-Cola",
+  "name": "Classic Cans",
+  "size": "35 pack x 12 fl oz",
+  "category": "Beverages",
+  "base_price": 17.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "coke",
+   "soda",
+   "pop",
+   "cola"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Pepsi",
+  "name": "Cola Cans",
+  "size": "12 pack x 12 fl oz",
+  "category": "Beverages",
+  "base_price": 8.29,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "soda",
+   "pop",
+   "cola"
+  ],
+  "overrides": {
+   "winn-dixie": {
+    "deal_type": "bogo",
+    "deal_text": "Buy 1 Get 1 Free"
+   }
+  }
+ },
+ {
+  "brand": "Dr Pepper",
+  "name": "Soda Cans",
+  "size": "12 pack x 12 fl oz",
+  "category": "Beverages",
+  "base_price": 8.49,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "soda",
+   "pop"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Mountain Dew",
+  "name": "Soda Cans",
+  "size": "12 pack x 12 fl oz",
+  "category": "Beverages",
+  "base_price": 8.49,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "soda",
+   "pop",
+   "dew"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Dasani",
+  "name": "Purified Water Bottles",
+  "size": "24 pack x 16.9 fl oz",
+  "category": "Beverages",
+  "base_price": 5.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "water",
+   "bottled water"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kirkland Signature",
+  "name": "Purified Water Bottles",
+  "size": "40 pack x 16.9 fl oz",
+  "category": "Beverages",
+  "base_price": 4.99,
+  "stores": [
+   "costco"
+  ],
+  "keywords": [
+   "water",
+   "bottled water"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Member's Mark",
+  "name": "Purified Water Bottles",
+  "size": "45 pack x 16.9 fl oz",
+  "category": "Beverages",
+  "base_price": 5.48,
+  "stores": [
+   "sams-club"
+  ],
+  "keywords": [
+   "water",
+   "bottled water"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "PurAqua",
+  "name": "Purified Water Bottles",
+  "size": "24 pack x 16.9 fl oz",
+  "category": "Beverages",
+  "base_price": 3.29,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "water",
+   "bottled water"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Tropicana",
+  "name": "Pure Premium Orange Juice No Pulp",
+  "size": "52 fl oz",
+  "category": "Beverages",
+  "base_price": 4.79,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "oj",
+   "orange juice"
+  ],
+  "overrides": {
+   "publix": {
+    "deal_type": "bogo",
+    "deal_text": "BOGO this week"
+   }
+  }
+ },
+ {
+  "brand": "Simply",
+  "name": "Orange Juice Pulp Free",
+  "size": "52 fl oz",
+  "category": "Beverages",
+  "base_price": 4.99,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "oj",
+   "orange juice"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Nature's Nectar",
+  "name": "Orange Juice No Pulp",
+  "size": "64 fl oz",
+  "category": "Beverages",
+  "base_price": 3.49,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "oj",
+   "orange juice"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Trader Joe's",
+  "name": "Orange Juice Fresh Squeezed",
+  "size": "64 fl oz",
+  "category": "Beverages",
+  "base_price": 5.99,
+  "stores": [
+   "trader-joes"
+  ],
+  "keywords": [
+   "oj",
+   "orange juice"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Folgers",
+  "name": "Classic Roast Ground Coffee",
+  "size": "40.3 oz",
+  "category": "Beverages",
+  "base_price": 12.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "coffee"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Maxwell House",
+  "name": "Original Roast Ground Coffee",
+  "size": "30.6 oz",
+  "category": "Beverages",
+  "base_price": 10.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "coffee"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kirkland Signature",
+  "name": "Colombian Ground Coffee",
+  "size": "3 lb",
+  "category": "Beverages",
+  "base_price": 16.99,
+  "stores": [
+   "costco"
+  ],
+  "keywords": [
+   "coffee"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Trader Joe's",
+  "name": "Joe Medium Roast Ground Coffee",
+  "size": "13 oz",
+  "category": "Beverages",
+  "base_price": 6.99,
+  "stores": [
+   "trader-joes"
+  ],
+  "keywords": [
+   "coffee"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Barissimo",
+  "name": "Donut Shop Ground Coffee",
+  "size": "12 oz",
+  "category": "Beverages",
+  "base_price": 4.89,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "coffee"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Great Value",
+  "name": "Whole Milk",
+  "size": "1 gal",
+  "category": "Dairy",
+  "base_price": 3.28,
+  "stores": [
+   "walmart"
+  ],
+  "keywords": [
+   "milk",
+   "gallon"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Friendly Farms",
+  "name": "Whole Milk",
+  "size": "1 gal",
+  "category": "Dairy",
+  "base_price": 2.95,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "milk",
+   "gallon"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Publix",
+  "name": "Whole Milk",
+  "size": "1 gal",
+  "category": "Dairy",
+  "base_price": 4.19,
+  "stores": [
+   "publix"
+  ],
+  "keywords": [
+   "milk",
+   "gallon"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Winn-Dixie",
+  "name": "Whole Milk",
+  "size": "1 gal",
+  "category": "Dairy",
+  "base_price": 3.99,
+  "stores": [
+   "winn-dixie"
+  ],
+  "keywords": [
+   "milk",
+   "gallon"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Good & Gather",
+  "name": "Whole Milk",
+  "size": "1 gal",
+  "category": "Dairy",
+  "base_price": 3.59,
+  "stores": [
+   "target"
+  ],
+  "keywords": [
+   "milk",
+   "gallon"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kroger",
+  "name": "Whole Milk",
+  "size": "1 gal",
+  "category": "Dairy",
+  "base_price": 3.49,
+  "stores": [
+   "kroger"
+  ],
+  "keywords": [
+   "milk",
+   "gallon"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Trader Joe's",
+  "name": "Whole Milk",
+  "size": "1 gal",
+  "category": "Dairy",
+  "base_price": 3.99,
+  "stores": [
+   "trader-joes"
+  ],
+  "keywords": [
+   "milk",
+   "gallon"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Member's Mark",
+  "name": "Whole Milk",
+  "size": "2 x 1 gal",
+  "category": "Dairy",
+  "base_price": 6.28,
+  "stores": [
+   "sams-club"
+  ],
+  "keywords": [
+   "milk",
+   "gallon"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kirkland Signature",
+  "name": "Whole Milk",
+  "size": "2 x 1 gal",
+  "category": "Dairy",
+  "base_price": 6.49,
+  "stores": [
+   "costco"
+  ],
+  "keywords": [
+   "milk",
+   "gallon"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Horizon Organic",
+  "name": "Whole Milk",
+  "size": "0.5 gal",
+  "category": "Dairy",
+  "base_price": 5.29,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "milk",
+   "organic"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Eggland's Best",
+  "name": "Large Grade A Eggs",
+  "size": "12 ct",
+  "category": "Dairy",
+  "base_price": 4.49,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "eggs",
+   "dozen"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Great Value",
+  "name": "Large Grade A Eggs",
+  "size": "12 ct",
+  "category": "Dairy",
+  "base_price": 2.98,
+  "stores": [
+   "walmart"
+  ],
+  "keywords": [
+   "eggs",
+   "dozen"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Goldhen",
+  "name": "Large Grade A Eggs",
+  "size": "12 ct",
+  "category": "Dairy",
+  "base_price": 2.49,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "eggs",
+   "dozen"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kirkland Signature",
+  "name": "Large Grade AA Eggs",
+  "size": "24 ct",
+  "category": "Dairy",
+  "base_price": 5.99,
+  "stores": [
+   "costco"
+  ],
+  "keywords": [
+   "eggs",
+   "dozen"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Member's Mark",
+  "name": "Large Grade A Eggs",
+  "size": "36 ct",
+  "category": "Dairy",
+  "base_price": 8.68,
+  "stores": [
+   "sams-club"
+  ],
+  "keywords": [
+   "eggs",
+   "dozen"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Trader Joe's",
+  "name": "Large Grade A Eggs",
+  "size": "12 ct",
+  "category": "Dairy",
+  "base_price": 3.49,
+  "stores": [
+   "trader-joes"
+  ],
+  "keywords": [
+   "eggs",
+   "dozen"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Land O Lakes",
+  "name": "Salted Butter Sticks",
+  "size": "16 oz",
+  "category": "Dairy",
+  "base_price": 5.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "butter"
+  ],
+  "overrides": {
+   "publix": {
+    "deal_type": "bogo",
+    "deal_text": "BOGO this week"
+   }
+  }
+ },
+ {
+  "brand": "Countryside Creamery",
+  "name": "Salted Butter Sticks",
+  "size": "16 oz",
+  "category": "Dairy",
+  "base_price": 3.79,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "butter"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kerrygold",
+  "name": "Pure Irish Butter",
+  "size": "8 oz",
+  "category": "Dairy",
+  "base_price": 4.29,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "butter"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kraft",
+  "name": "Shredded Mild Cheddar Cheese",
+  "size": "8 oz",
+  "category": "Dairy",
+  "base_price": 3.49,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "cheese",
+   "cheddar"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Happy Farms",
+  "name": "Shredded Mild Cheddar Cheese",
+  "size": "8 oz",
+  "category": "Dairy",
+  "base_price": 2.29,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "cheese",
+   "cheddar"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Tillamook",
+  "name": "Medium Cheddar Cheese Loaf",
+  "size": "2 lb",
+  "category": "Dairy",
+  "base_price": 10.99,
+  "stores": [
+   "costco",
+   "sams-club",
+   "target",
+   "kroger",
+   "publix"
+  ],
+  "keywords": [
+   "cheese",
+   "cheddar"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Chobani",
+  "name": "Greek Yogurt Strawberry",
+  "size": "5.3 oz",
+  "category": "Dairy",
+  "base_price": 1.39,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "yogurt"
+  ],
+  "overrides": {
+   "walmart": {
+    "deal_type": "multibuy",
+    "deal_qty": 10,
+    "deal_price": 10.0,
+    "deal_text": "10 for $10"
+   },
+   "kroger": {
+    "deal_type": "multibuy",
+    "deal_qty": 5,
+    "deal_price": 5.0,
+    "deal_text": "5 for $5 digital deal"
+   }
+  }
+ },
+ {
+  "brand": "Philadelphia",
+  "name": "Original Cream Cheese",
+  "size": "8 oz",
+  "category": "Dairy",
+  "base_price": 3.29,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "cream cheese"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Bananas",
+  "size": "1 lb",
+  "category": "Produce",
+  "base_price": 0.58,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "banana",
+   "fruit"
+  ],
+  "overrides": {
+   "trader-joes": {
+    "price": 0.23,
+    "aisle": "Produce (entrance)"
+   },
+   "aldi": {
+    "price": 0.44
+   }
+  }
+ },
+ {
+  "brand": "Dole",
+  "name": "Bananas",
+  "size": "3 lb",
+  "category": "Produce",
+  "base_price": 1.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "banana",
+   "fruit"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Gala Apples",
+  "size": "3 lb",
+  "category": "Produce",
+  "base_price": 4.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "apple",
+   "fruit"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Honeycrisp Apples",
+  "size": "1 lb",
+  "category": "Produce",
+  "base_price": 2.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "apple",
+   "fruit"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Avocados Hass",
+  "size": "1 ct",
+  "category": "Produce",
+  "base_price": 0.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "avocado"
+  ],
+  "overrides": {
+   "aldi": {
+    "price": 0.65
+   },
+   "trader-joes": {
+    "price": 0.79
+   }
+  }
+ },
+ {
+  "brand": "Fresh",
+  "name": "Avocados Hass",
+  "size": "5 ct",
+  "category": "Produce",
+  "base_price": 5.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "avocado"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Roma Tomatoes",
+  "size": "1 lb",
+  "category": "Produce",
+  "base_price": 1.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "tomato"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Yellow Onions",
+  "size": "3 lb",
+  "category": "Produce",
+  "base_price": 2.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "onion"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Russet Potatoes",
+  "size": "5 lb",
+  "category": "Produce",
+  "base_price": 3.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "potato",
+   "potatoes"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Russet Potatoes",
+  "size": "10 lb",
+  "category": "Produce",
+  "base_price": 6.48,
+  "stores": [
+   "walmart",
+   "costco",
+   "sams-club",
+   "kroger"
+  ],
+  "keywords": [
+   "potato",
+   "potatoes"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Baby Carrots",
+  "size": "1 lb",
+  "category": "Produce",
+  "base_price": 1.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "carrot"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Broccoli Crowns",
+  "size": "1 lb",
+  "category": "Produce",
+  "base_price": 1.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "broccoli"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Strawberries",
+  "size": "1 lb",
+  "category": "Produce",
+  "base_price": 3.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "strawberry",
+   "berries",
+   "fruit"
+  ],
+  "overrides": {
+   "winn-dixie": {
+    "deal_type": "bogo",
+    "deal_text": "BOGO"
+   }
+  }
+ },
+ {
+  "brand": "Fresh",
+  "name": "Strawberries",
+  "size": "2 lb",
+  "category": "Produce",
+  "base_price": 5.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "strawberry",
+   "berries",
+   "fruit"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Romaine Hearts",
+  "size": "3 ct",
+  "category": "Produce",
+  "base_price": 3.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "lettuce",
+   "salad"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Seedless Grapes Red",
+  "size": "1 lb",
+  "category": "Produce",
+  "base_price": 2.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "grape",
+   "fruit"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Boneless Skinless Chicken Breast",
+  "size": "1 lb",
+  "category": "Meat",
+  "base_price": 3.29,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "chicken"
+  ],
+  "overrides": {
+   "publix": {
+    "deal_type": "sale",
+    "sale_price": 2.99,
+    "deal_text": "Sale $2.99/lb"
+   }
+  }
+ },
+ {
+  "brand": "Kirkland Signature",
+  "name": "Boneless Skinless Chicken Breast",
+  "size": "6.5 lb",
+  "category": "Meat",
+  "base_price": 17.99,
+  "stores": [
+   "costco"
+  ],
+  "keywords": [
+   "chicken"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Member's Mark",
+  "name": "Boneless Skinless Chicken Breast",
+  "size": "6 lb",
+  "category": "Meat",
+  "base_price": 15.98,
+  "stores": [
+   "sams-club"
+  ],
+  "keywords": [
+   "chicken"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "80/20 Ground Beef",
+  "size": "1 lb",
+  "category": "Meat",
+  "base_price": 5.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "beef",
+   "hamburger",
+   "ground beef"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "80/20 Ground Beef",
+  "size": "5 lb",
+  "category": "Meat",
+  "base_price": 21.98,
+  "stores": [
+   "sams-club",
+   "costco",
+   "walmart"
+  ],
+  "keywords": [
+   "beef",
+   "hamburger",
+   "ground beef"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Fresh",
+  "name": "Chicken Thighs Bone-In",
+  "size": "1 lb",
+  "category": "Meat",
+  "base_price": 1.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "chicken"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Oscar Mayer",
+  "name": "Naturally Hardwood Smoked Bacon",
+  "size": "16 oz",
+  "category": "Meat",
+  "base_price": 7.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "bacon"
+  ],
+  "overrides": {
+   "winn-dixie": {
+    "deal_type": "bogo",
+    "deal_text": "BOGO"
+   }
+  }
+ },
+ {
+  "brand": "Appleton Farms",
+  "name": "Hardwood Smoked Bacon",
+  "size": "16 oz",
+  "category": "Meat",
+  "base_price": 4.49,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "bacon"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kirkland Signature",
+  "name": "Hickory Smoked Bacon",
+  "size": "4 x 16 oz",
+  "category": "Meat",
+  "base_price": 18.99,
+  "stores": [
+   "costco"
+  ],
+  "keywords": [
+   "bacon"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Ball Park",
+  "name": "Beef Franks",
+  "size": "15 oz",
+  "category": "Meat",
+  "base_price": 5.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "hot dogs",
+   "franks"
+  ],
+  "overrides": {
+   "publix": {
+    "deal_type": "bogo",
+    "deal_text": "BOGO this week"
+   }
+  }
+ },
+ {
+  "brand": "Fresh",
+  "name": "Atlantic Salmon Fillet",
+  "size": "1 lb",
+  "category": "Meat",
+  "base_price": 9.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "aldi",
+   "trader-joes"
+  ],
+  "keywords": [
+   "salmon",
+   "fish",
+   "seafood"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Nature's Own",
+  "name": "Butterbread",
+  "size": "20 oz",
+  "category": "Bakery",
+  "base_price": 3.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "bread",
+   "loaf",
+   "white bread"
+  ],
+  "overrides": {
+   "publix": {
+    "deal_type": "bogo",
+    "deal_text": "BOGO this week"
+   }
+  }
+ },
+ {
+  "brand": "Nature's Own",
+  "name": "100% Whole Wheat Bread",
+  "size": "20 oz",
+  "category": "Bakery",
+  "base_price": 3.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "bread",
+   "loaf",
+   "wheat"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "L'oven Fresh",
+  "name": "Butter Bread",
+  "size": "20 oz",
+  "category": "Bakery",
+  "base_price": 1.69,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "bread",
+   "loaf",
+   "white bread"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Great Value",
+  "name": "White Bread",
+  "size": "20 oz",
+  "category": "Bakery",
+  "base_price": 1.42,
+  "stores": [
+   "walmart"
+  ],
+  "keywords": [
+   "bread",
+   "loaf",
+   "white bread"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Dave's Killer Bread",
+  "name": "21 Whole Grains & Seeds",
+  "size": "27 oz",
+  "category": "Bakery",
+  "base_price": 6.49,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "costco",
+   "sams-club",
+   "trader-joes"
+  ],
+  "keywords": [
+   "bread",
+   "loaf"
+  ],
+  "overrides": {
+   "costco": {
+    "price": 9.99,
+    "section": "2 x 27 oz twin pack"
+   }
+  }
+ },
+ {
+  "brand": "Thomas'",
+  "name": "Plain Bagels",
+  "size": "6 ct",
+  "category": "Bakery",
+  "base_price": 4.49,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "bagel"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "King's Hawaiian",
+  "name": "Original Sweet Rolls",
+  "size": "12 ct",
+  "category": "Bakery",
+  "base_price": 4.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "rolls",
+   "hawaiian rolls"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Mission",
+  "name": "Flour Tortillas Soft Taco",
+  "size": "10 ct",
+  "category": "Bakery",
+  "base_price": 3.28,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "tortilla",
+   "tortillas"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kraft",
+  "name": "Macaroni & Cheese Dinner Original",
+  "size": "7.25 oz",
+  "category": "Pantry",
+  "base_price": 1.28,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "mac and cheese",
+   "mac & cheese",
+   "macaroni"
+  ],
+  "overrides": {
+   "kroger": {
+    "deal_type": "multibuy",
+    "deal_qty": 10,
+    "deal_price": 10.0,
+    "deal_text": "10 for $10"
+   }
+  }
+ },
+ {
+  "brand": "Kraft",
+  "name": "Macaroni & Cheese Dinner Original",
+  "size": "5 pack x 7.25 oz",
+  "category": "Pantry",
+  "base_price": 5.48,
+  "stores": [
+   "walmart",
+   "target",
+   "commissary",
+   "kroger"
+  ],
+  "keywords": [
+   "mac and cheese",
+   "mac & cheese",
+   "macaroni"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kraft",
+  "name": "Macaroni & Cheese Dinner Original",
+  "size": "12 pack x 7.25 oz",
+  "category": "Pantry",
+  "base_price": 11.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "mac and cheese",
+   "mac & cheese",
+   "macaroni"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kraft",
+  "name": "Macaroni & Cheese Dinner Spirals",
+  "size": "5.5 oz",
+  "category": "Pantry",
+  "base_price": 1.68,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "mac and cheese",
+   "mac & cheese",
+   "macaroni"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Cheese Club",
+  "name": "Macaroni & Cheese Dinner",
+  "size": "7.25 oz",
+  "category": "Pantry",
+  "base_price": 0.65,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "kraft",
+   "mac and cheese",
+   "mac & cheese",
+   "macaroni"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Annie's",
+  "name": "Shells & White Cheddar Mac & Cheese",
+  "size": "6 oz",
+  "category": "Pantry",
+  "base_price": 2.49,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "trader-joes"
+  ],
+  "keywords": [
+   "mac and cheese",
+   "macaroni"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Barilla",
+  "name": "Spaghetti Pasta",
+  "size": "16 oz",
+  "category": "Pantry",
+  "base_price": 1.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "pasta",
+   "noodles"
+  ],
+  "overrides": {
+   "walmart": {
+    "deal_type": "multibuy",
+    "deal_qty": 2,
+    "deal_price": 3.0,
+    "deal_text": "2 for $3"
+   }
+  }
+ },
+ {
+  "brand": "Reggano",
+  "name": "Spaghetti Pasta",
+  "size": "16 oz",
+  "category": "Pantry",
+  "base_price": 1.09,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "pasta",
+   "noodles"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Prego",
+  "name": "Traditional Pasta Sauce",
+  "size": "24 oz",
+  "category": "Pantry",
+  "base_price": 2.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "spaghetti sauce",
+   "marinara",
+   "pasta sauce"
+  ],
+  "overrides": {
+   "winn-dixie": {
+    "deal_type": "bogo",
+    "deal_text": "BOGO"
+   }
+  }
+ },
+ {
+  "brand": "Rao's",
+  "name": "Marinara Sauce",
+  "size": "24 oz",
+  "category": "Pantry",
+  "base_price": 8.49,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "spaghetti sauce",
+   "marinara",
+   "pasta sauce"
+  ],
+  "overrides": {
+   "publix": {
+    "deal_type": "bogo",
+    "deal_text": "BOGO this week"
+   }
+  }
+ },
+ {
+  "brand": "Rao's",
+  "name": "Marinara Sauce",
+  "size": "2 x 32 oz",
+  "category": "Pantry",
+  "base_price": 13.99,
+  "stores": [
+   "costco",
+   "sams-club"
+  ],
+  "keywords": [
+   "spaghetti sauce",
+   "marinara",
+   "pasta sauce"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Uncle Ben's",
+  "name": "Original Converted Rice",
+  "size": "5 lb",
+  "category": "Pantry",
+  "base_price": 8.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "rice"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Great Value",
+  "name": "Long Grain White Rice",
+  "size": "20 lb",
+  "category": "Pantry",
+  "base_price": 12.98,
+  "stores": [
+   "walmart"
+  ],
+  "keywords": [
+   "rice"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kirkland Signature",
+  "name": "Long Grain Rice",
+  "size": "25 lb",
+  "category": "Pantry",
+  "base_price": 17.99,
+  "stores": [
+   "costco"
+  ],
+  "keywords": [
+   "rice"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Jif",
+  "name": "Creamy Peanut Butter",
+  "size": "16 oz",
+  "category": "Pantry",
+  "base_price": 3.28,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "peanut butter",
+   "pb"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Jif",
+  "name": "Creamy Peanut Butter",
+  "size": "40 oz",
+  "category": "Pantry",
+  "base_price": 6.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "peanut butter",
+   "pb"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Jif",
+  "name": "Creamy Peanut Butter",
+  "size": "2 x 48 oz",
+  "category": "Pantry",
+  "base_price": 12.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "peanut butter",
+   "pb"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Peanut Delight",
+  "name": "Creamy Peanut Butter",
+  "size": "16 oz",
+  "category": "Pantry",
+  "base_price": 1.95,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "jif",
+   "peanut butter",
+   "pb"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Smucker's",
+  "name": "Strawberry Jam",
+  "size": "18 oz",
+  "category": "Pantry",
+  "base_price": 3.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "jelly",
+   "jam"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Gold Medal",
+  "name": "All Purpose Flour",
+  "size": "5 lb",
+  "category": "Pantry",
+  "base_price": 3.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "flour"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Domino",
+  "name": "Granulated Sugar",
+  "size": "4 lb",
+  "category": "Pantry",
+  "base_price": 3.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "sugar"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Crisco",
+  "name": "Pure Vegetable Oil",
+  "size": "48 fl oz",
+  "category": "Pantry",
+  "base_price": 4.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "oil",
+   "cooking oil"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kirkland Signature",
+  "name": "Olive Oil Extra Virgin",
+  "size": "2 l",
+  "category": "Pantry",
+  "base_price": 19.99,
+  "stores": [
+   "costco"
+  ],
+  "keywords": [
+   "olive oil",
+   "oil"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Carlini",
+  "name": "Extra Virgin Olive Oil",
+  "size": "16.9 fl oz",
+  "category": "Pantry",
+  "base_price": 5.49,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "olive oil",
+   "oil"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Cheerios",
+  "name": "Original Cereal",
+  "size": "18 oz",
+  "category": "Breakfast",
+  "base_price": 4.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "cereal"
+  ],
+  "overrides": {
+   "publix": {
+    "deal_type": "bogo",
+    "deal_text": "BOGO this week"
+   }
+  }
+ },
+ {
+  "brand": "Cheerios",
+  "name": "Original Cereal",
+  "size": "2 x 20.35 oz",
+  "category": "Breakfast",
+  "base_price": 8.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "cereal"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Millville",
+  "name": "Toasted Oats Cereal",
+  "size": "12 oz",
+  "category": "Breakfast",
+  "base_price": 1.75,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "cheerios",
+   "cereal"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kellogg's",
+  "name": "Frosted Flakes Cereal",
+  "size": "24 oz",
+  "category": "Breakfast",
+  "base_price": 5.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "cereal"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Quaker",
+  "name": "Old Fashioned Oats",
+  "size": "42 oz",
+  "category": "Breakfast",
+  "base_price": 5.28,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "oatmeal",
+   "oats"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Eggo",
+  "name": "Homestyle Waffles",
+  "size": "10 ct",
+  "category": "Frozen",
+  "base_price": 3.28,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "waffles",
+   "frozen waffles"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Nature Valley",
+  "name": "Crunchy Oats 'n Honey Granola Bars",
+  "size": "12 ct",
+  "category": "Breakfast",
+  "base_price": 4.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "granola bars"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Lay's",
+  "name": "Classic Potato Chips",
+  "size": "8 oz",
+  "category": "Snacks",
+  "base_price": 4.79,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "chips",
+   "potato chips"
+  ],
+  "overrides": {
+   "winn-dixie": {
+    "deal_type": "bogo",
+    "deal_text": "BOGO"
+   },
+   "kroger": {
+    "deal_type": "multibuy",
+    "deal_qty": 2,
+    "deal_price": 7.0,
+    "deal_text": "2 for $7"
+   }
+  }
+ },
+ {
+  "brand": "Doritos",
+  "name": "Nacho Cheese Tortilla Chips",
+  "size": "9.25 oz",
+  "category": "Snacks",
+  "base_price": 5.49,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "chips",
+   "tortilla chips"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Clancy's",
+  "name": "Wavy Potato Chips",
+  "size": "8 oz",
+  "category": "Snacks",
+  "base_price": 1.89,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "lays",
+   "chips",
+   "potato chips"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Oreo",
+  "name": "Chocolate Sandwich Cookies",
+  "size": "13.29 oz",
+  "category": "Snacks",
+  "base_price": 4.28,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "cookies"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Oreo",
+  "name": "Chocolate Sandwich Cookies Family Size",
+  "size": "19.1 oz",
+  "category": "Snacks",
+  "base_price": 5.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "cookies"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Goldfish",
+  "name": "Cheddar Crackers",
+  "size": "6.6 oz",
+  "category": "Snacks",
+  "base_price": 2.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "crackers"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Ritz",
+  "name": "Original Crackers",
+  "size": "13.7 oz",
+  "category": "Snacks",
+  "base_price": 4.28,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "crackers"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Planters",
+  "name": "Dry Roasted Peanuts",
+  "size": "16 oz",
+  "category": "Snacks",
+  "base_price": 3.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "peanuts",
+   "nuts"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kirkland Signature",
+  "name": "Mixed Nuts",
+  "size": "2.5 lb",
+  "category": "Snacks",
+  "base_price": 18.99,
+  "stores": [
+   "costco"
+  ],
+  "keywords": [
+   "nuts",
+   "mixed nuts"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Trader Joe's",
+  "name": "Peanut Butter Pretzels",
+  "size": "16 oz",
+  "category": "Snacks",
+  "base_price": 3.99,
+  "stores": [
+   "trader-joes"
+  ],
+  "keywords": [
+   "pretzels",
+   "snack"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "DiGiorno",
+  "name": "Rising Crust Pepperoni Pizza",
+  "size": "27.5 oz",
+  "category": "Frozen",
+  "base_price": 7.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "pizza",
+   "frozen pizza"
+  ],
+  "overrides": {
+   "publix": {
+    "deal_type": "bogo",
+    "deal_text": "BOGO this week"
+   }
+  }
+ },
+ {
+  "brand": "Mama Cozzi's",
+  "name": "Rising Crust Pepperoni Pizza",
+  "size": "29.6 oz",
+  "category": "Frozen",
+  "base_price": 4.49,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "pizza",
+   "frozen pizza"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Tyson",
+  "name": "Crispy Chicken Nuggets",
+  "size": "32 oz",
+  "category": "Frozen",
+  "base_price": 9.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "nuggets",
+   "chicken nuggets"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Tyson",
+  "name": "Crispy Chicken Nuggets",
+  "size": "5 lb",
+  "category": "Frozen",
+  "base_price": 17.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "nuggets",
+   "chicken nuggets"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Ore-Ida",
+  "name": "Golden Crinkles French Fries",
+  "size": "32 oz",
+  "category": "Frozen",
+  "base_price": 4.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "fries",
+   "french fries"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Ben & Jerry's",
+  "name": "Half Baked Ice Cream",
+  "size": "16 fl oz",
+  "category": "Frozen",
+  "base_price": 5.99,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "trader-joes"
+  ],
+  "keywords": [
+   "ice cream"
+  ],
+  "overrides": {
+   "kroger": {
+    "deal_type": "multibuy",
+    "deal_qty": 2,
+    "deal_price": 9.0,
+    "deal_text": "2 for $9"
+   }
+  }
+ },
+ {
+  "brand": "Breyers",
+  "name": "Natural Vanilla Ice Cream",
+  "size": "48 fl oz",
+  "category": "Frozen",
+  "base_price": 5.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "ice cream"
+  ],
+  "overrides": {
+   "winn-dixie": {
+    "deal_type": "bogo",
+    "deal_text": "BOGO"
+   }
+  }
+ },
+ {
+  "brand": "Birds Eye",
+  "name": "Steamfresh Broccoli Florets",
+  "size": "10 oz",
+  "category": "Frozen",
+  "base_price": 1.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "frozen vegetables",
+   "broccoli"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Campbell's",
+  "name": "Condensed Chicken Noodle Soup",
+  "size": "10.75 oz",
+  "category": "Canned Goods",
+  "base_price": 1.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "soup"
+  ],
+  "overrides": {
+   "walmart": {
+    "deal_type": "multibuy",
+    "deal_qty": 4,
+    "deal_price": 5.0,
+    "deal_text": "4 for $5"
+   }
+  }
+ },
+ {
+  "brand": "Bush's",
+  "name": "Original Baked Beans",
+  "size": "28 oz",
+  "category": "Canned Goods",
+  "base_price": 2.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "beans",
+   "baked beans"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Goya",
+  "name": "Black Beans",
+  "size": "15.5 oz",
+  "category": "Canned Goods",
+  "base_price": 1.28,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "beans",
+   "black beans"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "StarKist",
+  "name": "Chunk Light Tuna in Water",
+  "size": "5 oz",
+  "category": "Canned Goods",
+  "base_price": 1.18,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "tuna"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "StarKist",
+  "name": "Chunk Light Tuna in Water",
+  "size": "12 pack x 5 oz",
+  "category": "Canned Goods",
+  "base_price": 11.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "tuna"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Del Monte",
+  "name": "Cut Green Beans",
+  "size": "14.5 oz",
+  "category": "Canned Goods",
+  "base_price": 1.28,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "green beans",
+   "vegetables"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Hunt's",
+  "name": "Tomato Sauce",
+  "size": "8 oz",
+  "category": "Canned Goods",
+  "base_price": 0.68,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "tomato sauce"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Heinz",
+  "name": "Tomato Ketchup",
+  "size": "32 oz",
+  "category": "Condiments",
+  "base_price": 4.28,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "ketchup"
+  ],
+  "overrides": {
+   "publix": {
+    "deal_type": "bogo",
+    "deal_text": "BOGO this week"
+   }
+  }
+ },
+ {
+  "brand": "Heinz",
+  "name": "Tomato Ketchup",
+  "size": "2 x 50.5 oz",
+  "category": "Condiments",
+  "base_price": 8.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "ketchup"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Hellmann's",
+  "name": "Real Mayonnaise",
+  "size": "30 oz",
+  "category": "Condiments",
+  "base_price": 5.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "mayo",
+   "mayonnaise"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Burman's",
+  "name": "Real Mayonnaise",
+  "size": "30 oz",
+  "category": "Condiments",
+  "base_price": 3.29,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "mayo",
+   "mayonnaise"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "French's",
+  "name": "Classic Yellow Mustard",
+  "size": "20 oz",
+  "category": "Condiments",
+  "base_price": 2.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "mustard"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Hidden Valley",
+  "name": "Original Ranch Dressing",
+  "size": "16 fl oz",
+  "category": "Condiments",
+  "base_price": 4.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "ranch",
+   "dressing"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Sweet Baby Ray's",
+  "name": "Original BBQ Sauce",
+  "size": "18 oz",
+  "category": "Condiments",
+  "base_price": 2.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "bbq sauce",
+   "barbecue"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Tide",
+  "name": "Original Liquid Laundry Detergent",
+  "size": "92 fl oz",
+  "category": "Household",
+  "base_price": 12.97,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "laundry",
+   "detergent"
+  ],
+  "overrides": {
+   "target": {
+    "deal_type": "coupon",
+    "deal_price": 3.0,
+    "deal_text": "$3 off with Target Circle"
+   }
+  }
+ },
+ {
+  "brand": "Tide",
+  "name": "Original Liquid Laundry Detergent",
+  "size": "170 fl oz",
+  "category": "Household",
+  "base_price": 21.98,
+  "stores": [
+   "sams-club",
+   "costco",
+   "walmart"
+  ],
+  "keywords": [
+   "laundry",
+   "detergent"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Tide",
+  "name": "PODS Original",
+  "size": "81 ct",
+  "category": "Household",
+  "base_price": 21.97,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "laundry",
+   "detergent",
+   "pods"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Tandil",
+  "name": "Liquid Laundry Detergent",
+  "size": "100 fl oz",
+  "category": "Household",
+  "base_price": 6.99,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "tide",
+   "laundry",
+   "detergent"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Charmin",
+  "name": "Ultra Soft Toilet Paper Mega Rolls",
+  "size": "12 roll",
+  "category": "Household",
+  "base_price": 14.97,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "toilet paper",
+   "tp",
+   "bath tissue"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Charmin",
+  "name": "Ultra Soft Toilet Paper Mega Rolls",
+  "size": "30 roll",
+  "category": "Household",
+  "base_price": 29.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "toilet paper",
+   "tp",
+   "bath tissue"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Willow",
+  "name": "Ultra Strong Toilet Paper Mega Rolls",
+  "size": "12 roll",
+  "category": "Household",
+  "base_price": 7.29,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "charmin",
+   "toilet paper",
+   "tp"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kirkland Signature",
+  "name": "Bath Tissue",
+  "size": "30 roll",
+  "category": "Household",
+  "base_price": 22.99,
+  "stores": [
+   "costco"
+  ],
+  "keywords": [
+   "toilet paper",
+   "tp",
+   "bath tissue"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Bounty",
+  "name": "Select-A-Size Paper Towels Double Rolls",
+  "size": "6 roll",
+  "category": "Household",
+  "base_price": 13.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "paper towels"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Bounty",
+  "name": "Select-A-Size Paper Towels Double Rolls",
+  "size": "12 roll",
+  "category": "Household",
+  "base_price": 24.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "paper towels"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Dawn",
+  "name": "Ultra Dish Soap Original",
+  "size": "28 fl oz",
+  "category": "Household",
+  "base_price": 4.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "dish soap"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Glad",
+  "name": "ForceFlex Tall Kitchen Trash Bags",
+  "size": "80 ct",
+  "category": "Household",
+  "base_price": 15.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "trash bags",
+   "garbage bags"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Hefty",
+  "name": "Ultra Strong Tall Kitchen Trash Bags",
+  "size": "160 ct",
+  "category": "Household",
+  "base_price": 22.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "trash bags",
+   "garbage bags"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Clorox",
+  "name": "Disinfecting Wipes",
+  "size": "75 ct",
+  "category": "Household",
+  "base_price": 5.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "wipes",
+   "cleaning"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Ziploc",
+  "name": "Gallon Freezer Bags",
+  "size": "28 ct",
+  "category": "Household",
+  "base_price": 5.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "freezer bags",
+   "bags"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Colgate",
+  "name": "Total Whitening Toothpaste",
+  "size": "5.1 oz",
+  "category": "Personal Care",
+  "base_price": 3.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "toothpaste"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Crest",
+  "name": "3D White Toothpaste",
+  "size": "3.8 oz",
+  "category": "Personal Care",
+  "base_price": 4.29,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "toothpaste"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Dove",
+  "name": "Beauty Bar Soap",
+  "size": "6 pack x 3.75 oz",
+  "category": "Personal Care",
+  "base_price": 8.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "soap",
+   "bar soap"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Head & Shoulders",
+  "name": "Classic Clean Shampoo",
+  "size": "23.7 fl oz",
+  "category": "Personal Care",
+  "base_price": 8.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "shampoo"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Degree",
+  "name": "Men Cool Rush Antiperspirant",
+  "size": "2.7 oz",
+  "category": "Personal Care",
+  "base_price": 4.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "deodorant"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kirkland Signature",
+  "name": "Daily Facial Towelettes",
+  "size": "180 ct",
+  "category": "Personal Care",
+  "base_price": 12.99,
+  "stores": [
+   "costco"
+  ],
+  "keywords": [
+   "wipes",
+   "face wipes"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Pampers",
+  "name": "Swaddlers Diapers Size 3",
+  "size": "84 ct",
+  "category": "Baby",
+  "base_price": 29.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "diapers"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Pampers",
+  "name": "Swaddlers Diapers Size 3",
+  "size": "168 ct",
+  "category": "Baby",
+  "base_price": 49.98,
+  "stores": [
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "diapers"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Little Journey",
+  "name": "Diapers Size 3",
+  "size": "72 ct",
+  "category": "Baby",
+  "base_price": 15.99,
+  "stores": [
+   "aldi"
+  ],
+  "keywords": [
+   "pampers",
+   "diapers"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Huggies",
+  "name": "Natural Care Baby Wipes",
+  "size": "560 ct",
+  "category": "Baby",
+  "base_price": 18.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger",
+   "sams-club",
+   "costco"
+  ],
+  "keywords": [
+   "wipes",
+   "baby wipes"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Purina",
+  "name": "Dog Chow Complete Adult Dog Food",
+  "size": "40 lb",
+  "category": "Pet",
+  "base_price": 32.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "dog food"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Kirkland Signature",
+  "name": "Adult Dog Food Chicken & Rice",
+  "size": "40 lb",
+  "category": "Pet",
+  "base_price": 39.99,
+  "stores": [
+   "costco"
+  ],
+  "keywords": [
+   "dog food"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Purina",
+  "name": "Cat Chow Complete Dry Cat Food",
+  "size": "16 lb",
+  "category": "Pet",
+  "base_price": 19.98,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "cat food"
+  ],
+  "overrides": {}
+ },
+ {
+  "brand": "Tidy Cats",
+  "name": "Clumping Cat Litter 24/7 Performance",
+  "size": "20 lb",
+  "category": "Pet",
+  "base_price": 12.48,
+  "stores": [
+   "walmart",
+   "commissary",
+   "winn-dixie",
+   "publix",
+   "target",
+   "kroger"
+  ],
+  "keywords": [
+   "cat litter",
+   "litter"
+  ],
+  "overrides": {}
+ }
+]

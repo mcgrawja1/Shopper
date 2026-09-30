@@ -1,0 +1,77 @@
+[
+  {"slug": "walmart", "name": "Walmart", "color": "#0071ce", "price_factor": 0.92,
+   "notes": "Supercenter and Neighborhood Market. Sample catalog prices.",
+   "locations": [
+     {"id": "wm-5079", "name": "Walmart Supercenter - Pensacola Blvd", "address": "6280 N Pensacola Blvd", "city": "Pensacola", "state": "FL", "zip": "32505"},
+     {"id": "wm-3448", "name": "Walmart Supercenter - Mobile Hwy", "address": "8850 Mobile Hwy", "city": "Pensacola", "state": "FL", "zip": "32526"},
+     {"id": "wm-1222", "name": "Walmart Neighborhood Market - Navy Blvd", "address": "4600 Mobile Hwy", "city": "Pensacola", "state": "FL", "zip": "32506"}
+   ],
+   "aisles": {"Beverages": "Aisle A12", "Dairy": "Dairy wall (back)", "Produce": "Produce (front right)", "Meat": "Meat wall (back)", "Bakery": "Bakery (front left)", "Pantry": "Aisle A8", "Snacks": "Aisle A10", "Frozen": "Aisle A4 freezers", "Household": "Aisle H3", "Personal Care": "Aisle P6", "Baby": "Aisle B2", "Pet": "Aisle H9", "Breakfast": "Aisle A7", "Canned Goods": "Aisle A9", "Condiments": "Aisle A6", "Deli": "Deli counter"}},
+
+  {"slug": "sams-club", "name": "Sam's Club", "color": "#0067a0", "membership_required": true, "price_factor": 0.82,
+   "notes": "Warehouse club; bulk sizes. Membership required.",
+   "locations": [
+     {"id": "sams-6377", "name": "Sam's Club - Pensacola", "address": "6300 N Davis Hwy", "city": "Pensacola", "state": "FL", "zip": "32504"}
+   ],
+   "aisles": {"Beverages": "Aisle 24", "Dairy": "Cooler 3", "Produce": "Produce cooler", "Meat": "Meat cooler", "Bakery": "Bakery", "Pantry": "Aisle 12", "Snacks": "Aisle 14", "Frozen": "Freezer 5", "Household": "Aisle 32", "Personal Care": "Aisle 28", "Baby": "Aisle 27", "Pet": "Aisle 33", "Breakfast": "Aisle 11", "Canned Goods": "Aisle 13", "Condiments": "Aisle 10", "Deli": "Deli cooler"}},
+
+  {"slug": "aldi", "name": "Aldi", "color": "#00005f", "price_factor": 0.80,
+   "notes": "Mostly Aldi private labels. Bring a quarter for the cart.",
+   "locations": [
+     {"id": "aldi-88", "name": "Aldi - Nine Mile Rd", "address": "1305 E Nine Mile Rd", "city": "Pensacola", "state": "FL", "zip": "32514"},
+     {"id": "aldi-91", "name": "Aldi - Navy Blvd", "address": "3030 Navy Blvd", "city": "Pensacola", "state": "FL", "zip": "32507"}
+   ],
+   "aisles": {"Beverages": "Aisle 4", "Dairy": "Aisle 3 coolers", "Produce": "Aisle 1", "Meat": "Aisle 3 meat", "Bakery": "Aisle 2", "Pantry": "Aisle 2", "Snacks": "Aisle 1 (right)", "Frozen": "Aisle 4 freezers", "Household": "Aisle 5", "Personal Care": "Aisle 5", "Baby": "Aisle 5", "Pet": "Aisle 5", "Breakfast": "Aisle 2", "Canned Goods": "Aisle 2", "Condiments": "Aisle 2", "Deli": "Aisle 3 coolers"}},
+
+  {"slug": "commissary", "name": "Commissary (DeCA)", "color": "#4b6043", "membership_required": true, "price_factor": 0.85,
+   "notes": "Military commissary. Cost plus 5% surcharge at checkout (not included in prices).",
+   "locations": [
+     {"id": "deca-nasp", "name": "NAS Pensacola Commissary", "address": "5700 Radford Blvd", "city": "Pensacola", "state": "FL", "zip": "32508"},
+     {"id": "deca-hurlburt", "name": "Hurlburt Field Commissary", "address": "Hurlburt Field", "city": "Mary Esther", "state": "FL", "zip": "32544"}
+   ],
+   "aisles": {"Beverages": "Aisle 9", "Dairy": "Dairy (back wall)", "Produce": "Produce", "Meat": "Meat dept", "Bakery": "Bakery", "Pantry": "Aisle 5", "Snacks": "Aisle 7", "Frozen": "Aisle 12", "Household": "Aisle 14", "Personal Care": "Aisle 15", "Baby": "Aisle 13", "Pet": "Aisle 14", "Breakfast": "Aisle 4", "Canned Goods": "Aisle 6", "Condiments": "Aisle 5", "Deli": "Deli"}},
+
+  {"slug": "trader-joes", "name": "Trader Joe's", "color": "#c8102e", "price_factor": 0.95,
+   "notes": "Own-brand items only.",
+   "locations": [
+     {"id": "tj-773", "name": "Trader Joe's - Airport Blvd", "address": "1670 E Nine Mile Rd", "city": "Pensacola", "state": "FL", "zip": "32514"}
+   ],
+   "aisles": {"Beverages": "Beverages (back)", "Dairy": "Dairy cooler", "Produce": "Produce (entrance)", "Meat": "Meat cooler", "Bakery": "Bread rack", "Pantry": "Center aisle 2", "Snacks": "Snack wall", "Frozen": "Freezer cases", "Household": "Household end cap", "Personal Care": "Body care", "Baby": "N/A", "Pet": "N/A", "Breakfast": "Center aisle 1", "Canned Goods": "Center aisle 2", "Condiments": "Center aisle 3", "Deli": "Cheese & deli case"}},
+
+  {"slug": "winn-dixie", "name": "Winn-Dixie", "color": "#e31837", "price_factor": 1.08,
+   "notes": "Weekly BOGO deals with rewards card.",
+   "locations": [
+     {"id": "wd-478", "name": "Winn-Dixie - Cervantes St", "address": "3000 E Cervantes St", "city": "Pensacola", "state": "FL", "zip": "32503"},
+     {"id": "wd-433", "name": "Winn-Dixie - Gulf Breeze", "address": "1110 Gulf Breeze Pkwy", "city": "Gulf Breeze", "state": "FL", "zip": "32561"}
+   ],
+   "aisles": {"Beverages": "Aisle 10", "Dairy": "Dairy (back)", "Produce": "Produce", "Meat": "Meat & seafood", "Bakery": "Bakery", "Pantry": "Aisle 6", "Snacks": "Aisle 8", "Frozen": "Aisle 13", "Household": "Aisle 3", "Personal Care": "Aisle 2", "Baby": "Aisle 2", "Pet": "Aisle 4", "Breakfast": "Aisle 5", "Canned Goods": "Aisle 7", "Condiments": "Aisle 6", "Deli": "Deli"}},
+
+  {"slug": "publix", "name": "Publix", "color": "#3f8f29", "price_factor": 1.15,
+   "notes": "Weekly BOGO deals.",
+   "locations": [
+     {"id": "pub-1094", "name": "Publix - Cordova Commons", "address": "1650 Airport Blvd", "city": "Pensacola", "state": "FL", "zip": "32504"},
+     {"id": "pub-0630", "name": "Publix - Perdido Key", "address": "13700 Perdido Key Dr", "city": "Pensacola", "state": "FL", "zip": "32507"}
+   ],
+   "aisles": {"Beverages": "Aisle 9", "Dairy": "Dairy (back wall)", "Produce": "Produce", "Meat": "Meat dept", "Bakery": "Bakery", "Pantry": "Aisle 5", "Snacks": "Aisle 7", "Frozen": "Aisle 11", "Household": "Aisle 12", "Personal Care": "Aisle 13", "Baby": "Aisle 13", "Pet": "Aisle 12", "Breakfast": "Aisle 4", "Canned Goods": "Aisle 6", "Condiments": "Aisle 5", "Deli": "Deli"}},
+
+  {"slug": "target", "name": "Target", "color": "#cc0000", "price_factor": 1.0,
+   "notes": "Target Circle offers.",
+   "locations": [
+     {"id": "tgt-1226", "name": "Target - Pensacola", "address": "7100 N Davis Hwy", "city": "Pensacola", "state": "FL", "zip": "32504"}
+   ],
+   "aisles": {"Beverages": "Aisle G14", "Dairy": "Dairy coolers", "Produce": "Produce", "Meat": "Meat coolers", "Bakery": "Bakery", "Pantry": "Aisle G9", "Snacks": "Aisle G11", "Frozen": "Aisle G2 freezers", "Household": "Aisle E3", "Personal Care": "Aisle B7", "Baby": "Aisle C2", "Pet": "Aisle E8", "Breakfast": "Aisle G8", "Canned Goods": "Aisle G10", "Condiments": "Aisle G7", "Deli": "Deli coolers"}},
+
+  {"slug": "costco", "name": "Costco", "color": "#005daa", "membership_required": true, "price_factor": 0.80,
+   "notes": "Warehouse club; bulk sizes. Membership required.",
+   "locations": [
+     {"id": "cost-1387", "name": "Costco - Pensacola", "address": "1400 Airport Blvd", "city": "Pensacola", "state": "FL", "zip": "32504"}
+   ],
+   "aisles": {"Beverages": "Aisle 120", "Dairy": "Cooler 3", "Produce": "Produce cooler", "Meat": "Meat cooler", "Bakery": "Bakery", "Pantry": "Aisle 110", "Snacks": "Aisle 112", "Frozen": "Freezer 4", "Household": "Aisle 135", "Personal Care": "Aisle 130", "Baby": "Aisle 128", "Pet": "Aisle 136", "Breakfast": "Aisle 109", "Canned Goods": "Aisle 111", "Condiments": "Aisle 108", "Deli": "Deli cooler"}},
+
+  {"slug": "kroger", "name": "Kroger", "color": "#123f8c", "provider": "kroger", "price_factor": 1.02,
+   "notes": "Live prices and aisle locations when Kroger API keys are configured; sample prices otherwise. Use 'Find nearby' to add real stores.",
+   "locations": [
+     {"id": "sample-kroger-1", "name": "Kroger (sample store)", "address": "Add real stores with 'Find nearby'", "city": "", "state": "", "zip": ""}
+   ],
+   "aisles": {"Beverages": "Aisle 14", "Dairy": "Dairy", "Produce": "Produce", "Meat": "Meat", "Bakery": "Bakery", "Pantry": "Aisle 8", "Snacks": "Aisle 11", "Frozen": "Aisle 17", "Household": "Aisle 3", "Personal Care": "Aisle 1", "Baby": "Aisle 2", "Pet": "Aisle 4", "Breakfast": "Aisle 7", "Canned Goods": "Aisle 9", "Condiments": "Aisle 8", "Deli": "Deli"}}
+]
