@@ -10,6 +10,14 @@ Docker container and stores all of its data in one Docker volume.
 
 Skip this section if `docker compose version` already prints a version.
 
+Paste the commands **one line at a time**. Some terminals and SSH clients join
+multi-line pastes into a single line, which makes `apt-get` see later commands
+as file names (`E: Unsupported file /etc/apt/keyrings`).
+
+If `sudo apt-get update` already lists `download.docker.com` among its
+sources, Docker's repository is configured and you only need the install
+line: `sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin`.
+
 **Debian / Ubuntu**
 
 ```bash
@@ -37,7 +45,8 @@ sudo dnf -y install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 **Both:** start Docker and let your user run it without `sudo`.
 
 ```bash
-sudo systemctl enable --now docker
+sudo systemctl enable docker
+sudo systemctl start docker
 sudo usermod -aG docker "$USER"
 newgrp docker            # or log out and back in
 docker compose version   # should print "Docker Compose version v2.x"
