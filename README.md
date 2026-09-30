@@ -19,6 +19,9 @@ docker compose up -d --build
 Open `http://<your-server>:8080`. Data (stores, lists, favorites, settings)
 persists in the `shopper-data` Docker volume as a single SQLite file.
 
+Step-by-step server setup (installing Docker, firewall, backups, Kroger keys,
+reverse proxy, troubleshooting) is in [docs/INSTALL.md](docs/INSTALL.md).
+
 ## Pages
 
 | Page | What it does |
